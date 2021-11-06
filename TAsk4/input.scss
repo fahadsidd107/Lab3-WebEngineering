@@ -1,0 +1,18 @@
+/*SASS Variables*/
+
+$myFont: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+$myColor: rgb(181, 150, 211);
+$myColor2: rgb(47, 9, 82);
+$myWidth: 200px;
+
+body{
+    background-color: $myColor;
+  }
+  #pic{
+  border-radius: 50%;
+  width: $myWidth;
+  }
+  #para{
+    font-family: $myFont;
+    color: $myColor;
+  }

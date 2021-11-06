@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/*SASS Variables*/
+body {
+  background-color:  rgb(181, 150, 211);
+}
+
+#pic {
+  border-radius: 50%;
+  width:  200px;
+}
+
+#para {
+  font-family:   "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color:  rgb(181, 150, 211);
+}
+/*# sourceMappingURL=input.css.map */
